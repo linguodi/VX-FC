@@ -2,7 +2,7 @@
 ##### 技术栈：微信小程序
 
 ###### 页面截图
-![功能截图](./VX-FC/img/img.png)
+![功能截图](./VX-FC/img/814350e56ce0fc98d51e6cb64d5e1ed.png)
 
 ###### 本地服务器
 nodejs的express框架，使用中间件body-parser解析POST请求的数据。
